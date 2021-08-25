@@ -4,7 +4,7 @@
 
 The pencil case contains a small office where things can be noted, marks made something measured or simply drawn.
 
-![#ASKmod Pencil Case](/images/askmod-pencil-case.jpg)
+![#ASKmod Pencil Case](images/askmod-pencil-case.jpg)
 
 ### [View product in #ASKotec Stockroom](https://askotec.openculture.agency/product/askmod-pencil-case/)
 
@@ -19,7 +19,7 @@ If you have any questions or suggestions, feel free to [write us an issue](https
 
 ## Release Notes
 
-- [v.1.0.0](https://github.com/opencultureagency/ASKmod-Pencil-Case/tree/v.1.0.0): pencil case + some other items. See the full list in the [content file](CONTENT.MD)
+- [v.1.0.0](https://github.com/opencultureagency/ASKmod-Pencil-Case/tree/v.1.0.0): pencil case + some other items. See the full list in the [content file](CONTENT.md)
 
 ## Contributers
 
