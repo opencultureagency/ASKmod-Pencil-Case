@@ -2,7 +2,7 @@
 
 | Version: | 1.0.0        |
 | -------- | ------------ |
-| License: | [CC-BY-SA 4.0](https://github.com/opencultureagency/ASKmod-Mechanical-Tool-Set/blob/main/LICENSE.md) |
+| License: | [CC-BY-SA 4.0](LICENSE.md) |
 
 ## Pencil Case
 

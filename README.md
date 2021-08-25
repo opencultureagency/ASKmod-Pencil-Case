@@ -2,11 +2,7 @@
 
 #ASKmod is a part of the #ASKotec project: [Official Website](https://askotec.openculture.agency)
 
-The Repair Kit contains all the basic tools to repair the electronics or small components of a device. You can not only repair with it, but also build something. Various tools are included, such as soldering irons, screwdrivers, pliers or fine tools. You can use the set for the following scenarios, for example:
-
-- Repair bicycles
-- Repair cars
-- Other medium and large machines
+The pencil case contains a small office where things can be noted, marks made something measured or simply drawn.
 
 ![#ASKmod Pencil Case](/images/askmod-pencil-case.jpg)
 
@@ -14,7 +10,7 @@ The Repair Kit contains all the basic tools to repair the electronics or small c
 
 ## How to build
 
-This #ASKmod is based on the [Tool bag + soldering iron](https://askotec.openculture.agency/product/tool-bag-soldering-iron/) with a soldering iron and the content of the modification can be seen on the [CONTENT file](CONTENT.md).
+This #ASKmod is based on a empty [pencil pouch](https://askotec.openculture.agency/product/pencil-pouch/) and we added the important items for a small office. The content can be seen in the [CONTENT file](CONTENT.md).
 
 ## Developers
 
