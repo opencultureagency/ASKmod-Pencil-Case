@@ -6,7 +6,7 @@
 
 ## Pencil Case
 
-![#ASKmod Pencil Case](https://raw.githubusercontent.com/opencultureagency/ASKmod-Pencil-Case/4d653e7e3629dd146fa3ed5914d2ecb90a04377e/images/askmod-pencil-case.jpg)
+![#ASKmod Pencil Case](https://raw.githubusercontent.com/opencultureagency/ASKmod-Pencil-Case/e5d00a0cc760cd3a48478c51354b08d308910539/images/askmod-pencil-case.jpg)
 
 ## Items
 
