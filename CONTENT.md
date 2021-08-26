@@ -1,12 +1,12 @@
 # #ASKmod Content
 
-| Version: | 1.0.0        |
+| Version: | 1.1.0        |
 | -------- | ------------ |
 | License: | [CC-BY-SA 4.0](LICENSE.md) |
 
 ## Pencil Case
 
-![#ASKmod Pencil Case](https://raw.githubusercontent.com/opencultureagency/ASKmod-Pencil-Case/951b2aadfd6cfaac38093394fe861d20f51c2592/images/askmod-pencil-case.jpg)
+![#ASKmod Pencil Case](https://raw.githubusercontent.com/opencultureagency/ASKmod-Pencil-Case/4d653e7e3629dd146fa3ed5914d2ecb90a04377e/images/askmod-pencil-case.jpg)
 
 ## Items
 
@@ -24,6 +24,7 @@
 - 3x [Sticky Notes](https://askotec.openculture.agency/product/sticky-notes/)
 - 1x [Scissors](https://askotec.openculture.agency/product/scissors/)
 - 1x [Sharpener](https://askotec.openculture.agency/product/sharpener/)
+- 1x [Whiteboardmarker](https://askotec.openculture.agency/product/whiteboardmarker/)
 
 ## Reference
 
