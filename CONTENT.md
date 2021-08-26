@@ -14,7 +14,6 @@
 - 1x [Pen](https://askotec.openculture.agency/product/pen/)
 - 1x [Pencil](https://askotec.openculture.agency/product/pencil-eraser/)
 - 1x [Cutter](https://askotec.openculture.agency/product/cutter/)
-- 1x [Cutter blades (PACK OF 10)](https://askotec.openculture.agency/product/cutter-blades-pack-of-10/)
 - 1x [Eraser](https://askotec.openculture.agency/product/eraser/)
 - 1x [Lighter](https://askotec.openculture.agency/product/lighter/)
 - 1x [Marker](https://askotec.openculture.agency/product/marker/)
