@@ -1,12 +1,12 @@
 # #ASKmod Content
 
-| Version: | 1.1.0        |
+| Version: | 1.1.1        |
 | -------- | ------------ |
 | License: | [CC-BY-SA 4.0](LICENSE.md) |
 
 ## Pencil Case
 
-![#ASKmod Pencil Case](https://raw.githubusercontent.com/opencultureagency/ASKmod-Pencil-Case/e5d00a0cc760cd3a48478c51354b08d308910539/images/askmod-pencil-case.jpg)
+![#ASKmod Pencil Case](images/askmod-pencil-case.jpg)
 
 ## Items
 
@@ -20,7 +20,7 @@
 - 1x [Metal ruler](https://askotec.openculture.agency/product/metal-ruler/)
 - 1x [Protractor / Ruler](https://askotec.openculture.agency/product/protractor-ruler/)
 - 1x [Small Brush](https://askotec.openculture.agency/product/small-brush/)
-- 3x [Sticky Notes](https://askotec.openculture.agency/product/sticky-notes/)
+- 1x [Sticky Notes](https://askotec.openculture.agency/product/sticky-notes/)
 - 1x [Scissors](https://askotec.openculture.agency/product/scissors/)
 - 1x [Sharpener](https://askotec.openculture.agency/product/sharpener/)
 - 1x [Whiteboardmarker](https://askotec.openculture.agency/product/whiteboardmarker/)
